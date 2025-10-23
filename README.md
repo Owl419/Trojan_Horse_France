@@ -42,7 +42,18 @@ france-sovereign-tail-hedge/
 └── docs/
 ├── METHODOLOGY.md
 └── MODEL_SPECS.md
-For full investment memo, technical walkthrough, or discussion of opportunities:
+
+---
+
+## Quick Start
+
+Full Python implementation coming soon. For now:
+- **Investment memo:** Available upon request
+- **Live demo:** Contact for trigger dashboard walkthrough
+
+  ---
+  
+For full investment memo, Technical walkthrough, or discussion of opportunities:
 
 **Dominique Aphing**  
 📧 gaphingkouassi@gmail.com  
