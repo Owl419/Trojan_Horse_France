@@ -1,0 +1,5 @@
+Portfolio Component,Phase 1 Position ($M),Phase 2 Position ($M),Entry Trigger,Expected P&L (Crisis)
+CDS 5Y,30,120,CDS > 50 bps,+$30-50M
+Spread,15,90,Spread > 100 bps,+$20-30M
+Options,0,30,Phase 2 activation,+$15-25M
+FX Hedge,10,10,Always on,+$5-10M

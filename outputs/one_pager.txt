@@ -1,0 +1,77 @@
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                   FRANCE SOVEREIGN RISK STRATEGY                                     ║
+║          Systematic Escalation with Catalyst-Triggered Deployment                    ║
+║                         Strategy Brief | 2025-10-15                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+THESIS
+─────
+France faces structural fiscal stress (114% debt, 5.8% deficit) with limited room for 
+error. While markets remain calm today, cascading triggers (ratings downgrades, bond 
+auction stress, political instability) could rapidly reprrice credit risk. This strategy 
+systematically deploys capital when triggers align, capturing crisis alpha without 
+front-running uncertainty.
+
+CURRENT STATUS
+──────────────
+Phase:                    0 (WATCH & PREPARE)
+Deployed Capital:         $55M (11% of portfolio)
+Trigger Status:           Engine A: 0/3 | Engine B: 0/5
+Expected Return (Calm):   -5% to -10% (hedge cost)
+Expected Return (Crisis): +$50-100M (+10-20% of portfolio)
+
+PORTFOLIO STRUCTURE
+───────────────────
+1. Long France CDS 5Y:        $30M → expands to $120M in Phase 2
+   └─ Direct credit protection bet; profits if spreads widen
+   
+2. Short OAT / Long Bund:     $15M → expands to $90M in Phase 2
+   └─ Curve arbitrage; captures spread widening
+   
+3. Bank Put Options:           $0M (Phase 1) → $30M (Phase 2)
+   └─ Tail convexity; French financial equities crash in crisis
+   
+4. FX Hedge (EUR Puts):       $10M (always on)
+   └─ Portfolio insurance against EUR weakness
+
+TRIGGERS TO MONITOR (Next 90 Days)
+───────────────────────────────────
+✓ Budget vote failure          → Political instability signal
+✓ Moody's/S&P downgrade        → Confirmation of Fitch downgrade
+✓ Bond auction stress          → Market liquidity deterioration
+✓ Italian BTP > 250 bps        → Eurozone contagion spillover
+
+ESCALATION ROADMAP
+───────────────────
+Phase 1 → Phase 2 when: (1+ critical trigger) AND (catalyst event within 10 days)
+Deployment: 4-week ramp (25% / 50% / 75% / 100%)
+Total capital @ Phase 2: $250M (50% of portfolio)
+
+RISK MANAGEMENT
+────────────────
+Max Drawdown Tolerance:      10% (exit all if breached)
+Profit Taking:               Close 50% @ spread 150 bps
+Core Position Hold:          Maintain CDS for tail exposure
+Rebalancing:                 Daily trigger monitoring; adjust as catalysts approach
+
+EXPECTED OUTCOMES
+──────────────────
+Calm Scenario (70% prob):    -5% to -10% loss (acceptable hedge cost)
+Crisis Scenario (30% prob):  +$50-100M gain (+10-20% of portfolio)
+Timeframe:                   3-6 months to trigger activation
+Confidence:                  High (based on structural fiscal stress + institutional demand)
+
+NEXT STEPS
+───────────
+• Monitor trigger status daily (dashboard updated weekly)
+• Track catalyst calendar (budget votes, rating reviews, auctions)
+• Prepare Phase 2 escalation documentation
+• Confirm counterparty agreements for rapid deployment
+• Review exit triggers and stop-loss levels
+
+CONTACT
+────────
+Analysis Date:  2025-10-15
+Next Review:    2025-10-22 (weekly)
+Data Source:    Cell 1-10 (integrated quant system)

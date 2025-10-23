@@ -1,0 +1,7 @@
+Condition,Action,Logic
+Spreads widen to 150+ bps,"Close 50% of CDS, keep spread short",Lock in profits on core thesis move
+CDS breaches 75 bps,"Take profit on CDS, reduce to $50M","Manage risk, preserve capital"
+Rating downgrade (S&P/Moody's),Escalate to full Phase 2,"Confirmation event, deploy fully"
+Max drawdown hit (10%),"Close all positions, exit","Portfolio constraint, protect capital"
+"Position holds 4+ weeks, no crisis","Re-evaluate thesis, consider trim",Thesis invalidation if no catalyst
+Crisis resolves (spreads tighten >20 bps/day),"Exit spread, hold CDS for tail","Risk resolved, reduce convexity exposure"

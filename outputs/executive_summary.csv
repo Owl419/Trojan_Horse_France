@@ -1,0 +1,27 @@
+Metric,Value
+Analysis Date,2025-10-15
+Portfolio Size,$500M
+Current Phase,Phase 0
+Status,MONITORING
+,
+TRIGGERS (Engine A - Critical),0/3 active
+  Debt/GDP Trigger,🟢 INACTIVE (< 120%)
+  CDS 5Y Trigger,🟢 INACTIVE (< 50 bps)
+  10Y Yield Trigger,🟢 INACTIVE (< 3.75%)
+TRIGGERS (Engine B - Supporting),0/5 active
+  FR-DE Spread Trigger,🟢 INACTIVE (< 100 bps)
+  Deficit Trigger,🟢 INACTIVE (> -5.5%)
+  Unemployment Trigger,🟢 INACTIVE (< 8.5%)
+,
+DEPLOYED CAPITAL,
+CDS Position,$30M (6% of portfolio)
+Spread Trade Position,$15M (3% of portfolio)
+Options (Bank Puts),$0M (standby)
+FX Hedge,$10M (always on)
+Total Deployed,$55M (11% of portfolio)
+Expected Drawdown (Calm),-5% to -10% (hedge cost)
+Expected P&L (Crisis),+$50-100M if 2+ triggers fire
+,
+NEXT CATALYST,
+Days Away,nan days
+Action if Triggered,Escalate to Phase 2 if confirmed

@@ -1,0 +1,6 @@
+Leg,Direction,Notional ($M),Status,Entry Signal
+CDS 5Y Long,LONG,0.0,BUILDING,CDS > 50 bps
+OAT/Bund Spread,SHORT OAT / LONG BUND,0.0,BUILDING,Spread > 100 bps
+Options (Bank Puts),LONG PUTS,0.0,STANDBY,Phase 2 trigger
+FX Hedge,LONG EUR PUTS,0.0,ACTIVE,Always on
+TOTAL,-,0.0,-,-

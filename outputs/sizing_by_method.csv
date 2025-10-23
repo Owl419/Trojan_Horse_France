@@ -1,0 +1,5 @@
+Method,Total Allocation,Deployed Capital,CDS ($M),Spread ($M),Options ($M),Risk Profile
+Kelly Criterion (25%),4.3%,$21.4M,$8.6,$9.6,$3.2,Aggressive
+Risk Parity,100.0%,$500.0M,$200.0,$225.0,$75.0,Balanced
+VaR-Constrained (99%),200.0%,$1000.0M,$400.0,$450.0,$150.0,Conservative
+Phase-Based (Current),0.0%,$0.0M,$0.0,$0.0,$0.0,Tactical

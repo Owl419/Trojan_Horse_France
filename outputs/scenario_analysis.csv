@@ -1,0 +1,5 @@
+Scenario,Description,CDS Move,Spread Move,CDS P&L,Spread P&L,Options P&L,FX P&L,Total P&L,Return %
+BASE,Central forecast,+5 bps,-70 bps,$+0.0M,$-1.3M,$+0.0M,$-0.0M,$-1.3M,-2.58%
+BULL,Optimistic (5th %ile),+4 bps,-70 bps,$+0.0M,$-1.3M,$+0.0M,$-0.0M,$-1.3M,-2.60%
+BEAR,Pessimistic (95th %ile),+6 bps,-69 bps,$+0.1M,$-1.3M,$+0.0M,$-0.0M,$-1.3M,-2.55%
+CRISIS,Severe crisis,+84 bps,+120 bps,$+0.8M,$+2.3M,$+1.5M,$+6.2M,$+10.8M,+21.60%

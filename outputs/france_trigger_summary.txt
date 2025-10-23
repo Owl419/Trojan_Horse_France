@@ -1,0 +1,59 @@
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                 FRANCE SOVEREIGN RISK | HYBRID TRIGGER SUMMARY                       ║
+║                     Reference Date: 2025-10-15 | Trojan Horse Ready                  ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+[CURRENT STATUS]
+  Phase: 1 | PHASE 1: EARLY WARNING (1 critical trigger, awaiting catalyst)
+  
+[TRIGGER ENGINES]
+  Engine A (Critical):     1/3 triggers active 🔴
+    - Debt/GDP ≥ 120.0%
+    - CDS 5Y ≥ 50.0 bps
+    - 10Y OAT ≥ 3.75%
+
+  Engine B (Supporting):   0/5 triggers active 🔴
+    - FR-DE Spread ≥ 100.0 bps
+    - Deficit ≤ -5.5% GDP
+    - Unemployment ≥ 8.5%
+    - Inflation ≥ 3.0%
+    - GDP Growth ≤ 0.2% QoQ
+
+[ESCALATION LOGIC]
+  Type: CATALYST-TRIGGERED (Trojan Horse)
+
+  Phase rules (deterministic):
+    • Phase 0 (WATCH):     0 critical triggers → 0% allocation
+    • Phase 1 (EARLY):     1 critical + ≥2 supporting → 10% allocation
+    • Phase 2 (DEPLOY):    ≥2 critical → 60% allocation
+    • Phase 3 (PANIC):     3 critical + ≥3 supporting → 80% allocation
+
+  Catalyst window considered: 10 days from reference (see CATALYSTS calendar)
+  Next catalyst (if found): None
+
+[POSITION SIZING]
+  Phase 1 allocation:
+    - Total notional: 10% of risk budget
+    - CDS allocation:  60% of notional
+    - Spread trade:    30% of notional
+    - Options/convexity:10% of notional
+
+[RECOMMENDATIONS / NEXT ACTIONS]
+  1) If Phase 2 or higher is active, deploy Tiered Execution:
+     - Tier 1: Initiate CDS pilot exposure.
+     - Tier 2: Scale spread short (OAT vs Bund) as liquidity confirms.
+     - Tier 3 (if Phase 3/PANIC): Maximize convex exposure; prioritize speed over finesse.
+  2) Legal optionality: maintain claim dossier pipeline under standby for enforcement vector.
+  3) Monitoring: refresh triggers daily, rerun Monte-Carlo weekly, alert on catalyst overlap.
+  4) Risk controls: enforce stop-ladders, monitor ECB/ESM interventions, automatic unwind on ECB announcement triggers.
+
+[OUTPUTS SAVED]
+  - Trigger CSV: france_trigger_report.csv (in data/)
+  - Dashboard PNG: france_hybrid_trigger_dashboard.png (in outputs/)
+  - This textual summary: france_trigger_summary.txt (in outputs/)
+
+[DISCLAIMER]
+  This model is a structured scenario signal engine. It does not constitute investment advice.
+  All sizing thresholds and trigger logic are indicative and require human confirmation,
+  live market calibration, and counterparty sign-off before deployment.
